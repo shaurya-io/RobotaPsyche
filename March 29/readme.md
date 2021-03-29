@@ -2,7 +2,7 @@
 
 2. Will the power-balance between humans and robots change given the pace at which technology develops? [Musk with Joe Rogan]
 
-3. How relevant is the ability to suffer and derive pleasure - in determining the 'rights' ascribed to robots?
+3. How relevant is the ability to suffer and derive pleasure - in determining the 'rights' ascribed to robots? [Anki Vector]
 
 4. There is a possibility that multiple frontrunners in AI technology may emerge based on slightly differing approaches - similar to Siri vs Alexa, Android vs iOS, and so on. How does this impact the determination of rights for robots - assuming slight differences in sentient ability?
 
