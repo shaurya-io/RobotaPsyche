@@ -25,3 +25,10 @@ I briefly touched on this previously, but the TLDR is: it is easier to fool some
 We know that human beings are conscious because we ourselves are, and everyone around us behaves in similar patterns - and therefore we induce it to the entire human population. We know that animals are conscious because they behave in similar rudimentary patterns (avoid pain, seek pleasure is one of them) and our theories based on an assumption around animal consciousnes generally pan out well. 
 
 But truly, consciousness is a step forward compared to thinking - a conscious being is aware of its own existence. It is not clear to me how an external test can determine an AI's level of self-identity. There may be sophisticated programs that can simulate this for a human audience, yes, but I'd argue that that is not good enough to be labelled true consciousness unless we can prove, looking at the source code for instance, that the AI in question truly recognises it's own existence as a distinct entity.
+
+## On the Code vs Essay Choice
+
+I for one have a predisposition to pick code projects when offered a choice - however, this semester I wish to make an exception to this because my other classes are quite code-heavy and will involve code projects as well. Given that situation, an essay provides a nice change of pace for my personal workflow while also ensuring that I cover this class's topics adequately.
+
+For now, my preliminary idea is to conduct a deep analysis of General AI vs Narrow AI - and analysing the challenges + what it will take to develop the former.
+
