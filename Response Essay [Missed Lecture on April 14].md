@@ -2,9 +2,11 @@
 
 The Turing Test was proposed in an era where people were just beginning to imagine the full potential of AI and robots - and this led them to devise simplistic tests to determine the consciousness of AI. Not to take away from the genius of Alan Turing, but the Turing Test oversimplifies a few key factors.
 
-### 1. The interrogator's level of familiarity with technology will be a key factor in the outcome of this rational game.
-### 2. The interrogator's knowledge of psychology, as well as their critical thinking abilities in terms of real-time analysis of responses (not only surface-level like one of us would) will also impact the outcome of the game.
-### 3. Furthermore, whether or not the interrogator is familiarized with the internal decision-making process of the AI is also a factor worth considering.
+1. The interrogator's level of familiarity with technology will be a key factor in the outcome of this rational game.
+
+2. The interrogator's knowledge of psychology, as well as their critical thinking abilities in terms of real-time analysis of responses (not only surface-level like one of us would) will also impact the outcome of the game.
+
+3. Furthermore, whether or not the interrogator is familiarized with the internal decision-making process of the AI is also a factor worth considering.
 
 To this end, I believe that a Turing Test conducted by an individual who has a background in AI and psychology, and knows how the AI participating in the game makes its decisions, will be a far more challenging test - but the flipside is that an AI that beats this test will have a much stronger claim to consciousness than an AI that beats an average interrogator with no background. Just because we ourselves are conscious does not mean that all humans understand consciousness with the same degree of detail - just like the difference between an average person and a cardiologist even though both of them have hearts.
 
