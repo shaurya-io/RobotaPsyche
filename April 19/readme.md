@@ -2,4 +2,4 @@
 
 1. I find this story to be a bigger commentary on religion than AI - Cutie's disbelief of a wider reality (and allegience to the Master) is quite similar to humans' belief in God. In Sapiens, Harari makes an argument that our ability to believe in abstractions allows us to cooperate at levels that other animals don't - how does this play into Cutie's functioning?
 
-2. Could robots be too good for us to reason with - much like chess?
+2. Could robots be too good for us to reason with - much like chess? The scope at which narrow AI is better than humans is ever-increasing: chess is a finite bounded problem, and Go (another game which is significantly more complicated than Chess and less structured) was thought to be invincible from an AI perspective until DeepMind managed it. Could it be possible that the entire faculty of logical reasoning become the forte of narrow AI, in which case there may be no way for a human being to 'convince' an AI out of a conclusion it arrived to via it's own logical thinking process (except invoking emotion or humanity's inherent worth, which is in essence what Asimov's Laws do).
