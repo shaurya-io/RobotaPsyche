@@ -1,4 +1,4 @@
-##Here are some of my thoughts after the assigned reading:
+## Here are some of my thoughts after the assigned reading:
 
 1. How does one begin to approach the weakening/strengthening of the laws as depicted in the story, from a code perspective? To my understanding the intensity of the law's enforcement is a very philosophical concept.
 
